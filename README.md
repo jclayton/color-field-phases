@@ -1,1 +1,3 @@
-# color-field-phases
+# Color Field Phases
+
+Joshua Clayton
